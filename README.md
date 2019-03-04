@@ -6,7 +6,5 @@ Current Bugs:
     
     Upward throws go further than intended.
     
-    Roll not as strong as intended.
-    
-    Returning to Main Menu & Starting New Game doesn't work as intended
+    Roll not as strong as intended
     
