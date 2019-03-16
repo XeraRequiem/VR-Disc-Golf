@@ -13,6 +13,4 @@ Future Content:
 Known Bugs:
 
     -Upward throws go further than intended
-    -Sometimes a hole will finish without all player's actually completing the hole. This is being investigated, but has
-     something to do with the comparison function of Unity's GameObjects and the way turns are determined.
     -Initial throw order is incorrect. Player 1 is blue, player 2 is yellow, player 3 is gray, and player 4 is red.
