@@ -12,4 +12,4 @@ Future Content:
 Known Bugs:
 
     -Upward throws go further than intended
-    -Initial throw order is incorrect. Player 1 is blue, player 2 is yellow, player 3 is gray, and player 4 is red.
+    -Initial throw order for "distance" turn method is incorrect. Player 1 is blue, player 2 is yellow, player 3 is gray, and player 4 is red.
