@@ -4,7 +4,6 @@ A Demo build of Virtual Reality Disc Golf. This game is being individually devel
 
 Future Content:
 
-    -Boundaries (+1 for throwing out of bounds)
     -Full 9 hole course
     -Actual disc assets
     -Online multiplayer
