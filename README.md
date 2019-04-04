@@ -6,8 +6,8 @@ Future Content:
 
     -Full 9 hole course
     -Actual disc assets
-    -Online multiplayer
-    -Online leaderboards
+    -More Accurate/Fun physics
+    -Name Saving
 
 Known Bugs:
 
